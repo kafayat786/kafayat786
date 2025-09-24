@@ -1,10 +1,14 @@
 ### Hi there 👋, I am Kafayat Ullah
 ![Twitter Follow](https://img.shields.io/twitter/follow/kafayat786?style=social) 
 
-🔭 I’m currently working as a Senior Full Stack (MERN + Next.js) Developer at GMTM  
-🌱 Learning and exploring system design & scalable architectures  
-👯 Open to collaborate on open-source and innovative SaaS products  
-💬 Ask me about JavaScript, MERN stack, Next.js, or scalable app optimization  
+🔭 I’m currently working as a Senior Full Stack (MERN + Next.js) Developer at GMTM with 6 years of development experience. 
+
+🌱 Learning and exploring system design & scalable architectures.
+
+👯 Open to collaborate on open-source and innovative SaaS products.
+
+💬 Ask me about JavaScript, MERN stack, Next.js, or scalable app optimization.
+
 📫 Reach me at: **kafayatullah000@gmail.com**  
 
 🧰 Toolbox  
